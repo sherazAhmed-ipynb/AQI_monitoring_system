@@ -90,8 +90,7 @@ The ESP32 connects to **Firebase Realtime Database** to upload sensor data:
 - Adding **mobile app support** for remote monitoring.
 - Enhancing **data visualization** with Firebase analytics.
 
-## License
-This project is open-source and available under the **MIT License**.
+
 
 ## Contributing
 Feel free to **fork** this repo, submit **pull requests**, or suggest improvements!
