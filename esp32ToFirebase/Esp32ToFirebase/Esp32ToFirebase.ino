@@ -8,8 +8,8 @@
 #define WIFI_PASSWORD "ihome321"
 
 // Replace these with your Firebase project credentials
-#define DATABASE_URL "https://aqi-testing3-default-rtdb.europe-west1.firebasedatabase.app/"
-#define API_KEY "AIzaSyAmP9IpsbyS5ww6ABJgCpKmPFDafNXvNuk"
+#define DATABASE_URL "your database url"
+#define API_KEY "your api key"
 
 // Define Firebase Data object
 FirebaseData fbdo;
